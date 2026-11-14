@@ -1,0 +1,2 @@
+source_file,version,reason,content_hash,rejected_at
+0017.csv,18,rejected fork of version 18: prev 67b4fc9c55cbd40f948c2d94619db730d44d944052dce47da957e6d887d8b6fc does not link to the predecessor on the canonical chain (expected 1d873f165bb32d7f06424008f245c8210eb7544d9a28a368c668e943352f197a); header version appears relabelled. Canonical file is 0031.csv,29709dd83d57c3bad3a5be6ddfdc41eb3ec9b3b1cf1c430b1bc10e26dc1d372f,2026-11-14 04:08:50

@@ -1,0 +1,9 @@
+[checks]
+version_seq ok
+digest_link broken
+digest_recalc ok
+void_rollback ok
+endpoints ok
+[chain]
+verdict broken
+break_at 18
